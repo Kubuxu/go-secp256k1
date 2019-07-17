@@ -1,3 +1,3 @@
-module github.com/ipsn/go-secp256k1
+module github.com/Kubuxu/go-secp256k1
 
 go 1.12
